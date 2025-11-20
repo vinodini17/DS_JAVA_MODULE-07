@@ -2,7 +2,6 @@
 ## DATE:14-11-2025
 ## AIM:
 To write a java  program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
-
 ## Algorithm
 
 1.Move head forward until it reaches a node whose value is not equal to val. 
